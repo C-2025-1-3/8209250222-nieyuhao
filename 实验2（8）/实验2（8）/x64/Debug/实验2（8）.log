@@ -1,0 +1,6 @@
+﻿  源.cpp
+F:\实验2（8）\实验2（8）\源.cpp(4,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\实验2（8）\实验2（8）\源.cpp(5,9): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+F:\实验2（8）\实验2（8）\源.cpp(12,22): warning C4244: “参数”: 从“long”转换到“float”，可能丢失数据
+F:\实验2（8）\实验2（8）\源.cpp(12,16): warning C4244: “参数”: 从“long”转换到“float”，可能丢失数据
+  实验2（8）.vcxproj -> F:\实验2（8）\x64\Debug\实验2（8）.exe
